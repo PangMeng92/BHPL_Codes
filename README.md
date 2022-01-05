@@ -4,7 +4,7 @@ Bidirectional heterogeneous prototype learning (BHPL) model
 
 This work entitled "A Unified Framework for Bidirectional Prototype Learning from Contaminated Faces across Heterogeneous Domains" has been submitted to IEEE Transactions on Information Forensics and Security (TIFS). 
 
-In this package, we implement our DisP+V using Pytorch, and train/test the DisP+V model on BUAA NIR-VIS heterogeneous face dataset.
+In this package, we implement our BHPL model using Pytorch, and train/test the BHPL model on BUAA NIR-VIS heterogeneous face dataset.
 
 -------------------------------------------------------------------------
 ## Train BHPL model:
